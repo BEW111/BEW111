@@ -1,4 +1,4 @@
-I'm a freshman studying computer science at the University of Pennsylvania; interested in machine learning.
+Sophomore studying computer science at the University of Pennsylvania; interested in machine learning, data science, and data ethics.
 
 <!--
 **BEW111/BEW111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
