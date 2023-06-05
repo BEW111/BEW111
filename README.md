@@ -1,1 +1,1 @@
-Hi, I'm a rising junior studying computer science at the University of Pennsylvania. I'm most interested in machine learning, data science, and data ethics--feel free to reach out if you'd like to work on a project together!
+Hi, I'm a rising junior studying computer science at the University of Pennsylvania.
